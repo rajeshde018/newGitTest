@@ -1,0 +1,5 @@
+this is my recent file to commit from command prompt
+git status
+git add -m "added new file"
+git pull
+git push
